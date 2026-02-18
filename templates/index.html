@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Travel Planner</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<div class="container">
+    <h2>Travel Planner</h2>
+    <button id="themeToggle" class="theme-btn">🌙 Dark Mode</button>
+    <form id="travelForm">
+        <label>Name:</label>
+        <input type="text" name="name" required>
+
+        <p>Choose Place:</p>
+
+        <label><input type="radio" name="place" value="Delhi" required> Delhi</label>
+        <label><input type="radio" name="place" value="Mumbai"> Mumbai</label>
+        <label><input type="radio" name="place" value="Itanagar"> Itanagar</label>
+        <label><input type="radio" name="place" value="Guwahati"> Guwahati</label>
+        <label><input type="radio" name="place" value="Kolkata"> Kolkata</label>
+        <label><input type="radio" name="place" value="Aizawl"> Aizawl</label>
+
+        <p>Number of Days: <span id="daysValue">2</span></p>
+        <input type="range" name="days" min="2" max="15" value="2" id="daysSlider">
+
+        <button type="submit">Submit</button>
+    </form>
+
+    <p id="responseMsg"></p>
+</div>
+
+<script src="/static/script.js"></script>
+</body>
+</html>
