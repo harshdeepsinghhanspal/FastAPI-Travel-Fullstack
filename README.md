@@ -30,6 +30,10 @@ Travel Planner is a lightweight, interactive web application where users can:
 
 > static folder has style.css and script.js
 
+# 📂 Making a Folder in Pycharm 
+
+![PyC_WebD01](https://github.com/user-attachments/assets/f1151f2a-cba1-45c8-9be8-0b9fe18c6b5b)
+
 # ▶️ How to Run:
 
 > Terminal icon and this is where you will run commands to run your project
