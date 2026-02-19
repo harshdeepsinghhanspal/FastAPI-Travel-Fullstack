@@ -18,7 +18,7 @@ Travel Planner is a lightweight, interactive web application where users can:
 > It also includes a persistent Dark/Light theme toggle using LocalStorage.
 
 # 📦 Dependencies:
-> pip install fastapi uvicorn pandas openpyxl jinja2
+> pip install fastapi uvicorn pandas openpyxl jinja2 python-multipart
 
 > In Pycharm, add these packages manually by searching each one by one 
 
