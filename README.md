@@ -40,8 +40,16 @@ Travel Planner is a lightweight, interactive web application where users can:
 
 <img width="177" height="95" alt="image" src="https://github.com/user-attachments/assets/d69e2f6e-233a-430b-8c29-d3b3fcc620c3" />
 
-> Use this command in terminal: uvicorn main:app --reload
+> Use this command in terminal (COPY-PASTE this command and then press enter): uvicorn main:app --reload
 
 > Then select: http://127.0.0.1:8000
 
+![PyC_WebD05](https://github.com/user-attachments/assets/80b59618-1352-4355-bbce-cfdd4c2d2603)
+
 > Press Ctrl + C in terminal to quit
+
+<img width="444" height="100" alt="image" src="https://github.com/user-attachments/assets/d15f019b-0fd3-4fb1-86b7-7c10fc4d18f6" />
+ 
+> To run again, press UP ARROW KEY ⬆ to go to the history of the commands used in terminal
+
+![PyC_WebD06](https://github.com/user-attachments/assets/63db5d32-15e5-40cf-a5c9-a7694997db6b)
